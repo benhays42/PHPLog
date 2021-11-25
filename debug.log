@@ -1,0 +1,15 @@
+2021-11-25 03:07:48 - Hello World
+2021-11-25 03:10:51 - Log Level 6 - Hello World
+2021-11-25 03:11:41 - Hello World
+2021-11-25 03:15:52 - This is a test log message.
+2021-11-25 03:16:12 - This is a test log message.
+2021-11-25 03:16:32 - This is a test log message.
+2021-11-25 03:16:35 - This is a test log message.
+2021-11-25 03:18:18 - This is a test log message.
+2021-11-25 03:18:18 - User submitted: aaaa
+2021-11-25 03:18:53 - This is a test log message.
+2021-11-25 03:18:53 - User submitted: <h1>
+2021-11-25 03:19:09 - This is a test log message.
+2021-11-25 03:19:09 - User submitted: <h1>HTML Injection</h1>
+2021-11-25 03:19:38 - This is a test log message.
+2021-11-25 03:19:38 - User submitted: <script>alert(document.domain)</script>
